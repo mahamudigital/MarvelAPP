@@ -5,7 +5,10 @@
       <map>
         <entry key="../../../../layout/custom_preview.xml" value="0.27239583333333334" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.129981884057971" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.2427536231884058" />
         <entry key="app/src/main/res/layout/fragment_details_character.xml" value="0.24583333333333332" />
+        <entry key="app/src/main/res/layout/fragment_favorite_character.xml" value="0.2427536231884058" />
+        <entry key="app/src/main/res/layout/fragment_list_character.xml" value="0.2427536231884058" />
         <entry key="app/src/main/res/layout/fragment_search_character.xml" value="0.25416666666666665" />
         <entry key="app/src/main/res/layout/item_character.xml" value="0.24583333333333332" />
         <entry key="app/src/main/res/layout/item_comic.xml" value="0.24583333333333332" />
