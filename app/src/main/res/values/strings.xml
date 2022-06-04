@@ -10,7 +10,7 @@
     <string name="comics">Comics</string>
 
     <!--    Details Character Fragment -->
-    <string name="empty_list_comics">Esse personagem não possui comics</string>
+    <string name="empty_list_comics">Esse personagem não possui comics(Gibis)</string>
     <string name="close_dialog">Fechar</string>
 
     <!--    Search Character Fragment -->
